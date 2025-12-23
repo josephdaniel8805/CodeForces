@@ -7,8 +7,6 @@ public class B {
         while(t-->0){
             int n=sc.nextInt();
             int arr[]=new int[n];
-            ArrayList<Integer> list = new ArrayList<>();
-            int max=0,pos=0;
             for(int ind=0;ind<n;ind++){
                 arr[ind]=sc.nextInt();
             }
